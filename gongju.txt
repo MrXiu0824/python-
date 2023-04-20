@@ -1,0 +1,10 @@
+确定有无共享文件夹：vmware-hgfsclient
+挂载共享文件夹：vmhgfs-fuse -o allow_other .host:/ /mnt/hgfs
+清空回收站：sudo rm -rf ~/.local/share/Trash/files/*
+解决3D加速：mks.dx12.vendorID = "0x10de"
+更新软件下载库：sudo apt-get upgrade
+下载最新VMware Tools：install open-vm-tools-desktop -y
+ 重启：sudo reboot
+	Oracle帐号：574814729@qq.com
+	Oracle密码：Oracle123.
+在snap商店安装pycharm：snap install --classic pycharm-professional
